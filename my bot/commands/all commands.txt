@@ -1,0 +1,24 @@
+This is the Chatbot commands
+make sure to use all of this things to use the bot.
+
+
+
+CHATBOT COMMANDS
+"!"
+!help
+!rules
+!sing
+!stalk
+!slap
+!kiss
+!ml
+!meme
+!tommy
+!joke
+!add_rank
+!leaderboard
+!followers
+!feedback
+!ay
+!love
+!show
